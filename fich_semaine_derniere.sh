@@ -9,3 +9,4 @@ cd $path
 
 echo "find -type f mtime -7"" >> fich_semaine_derniere.sh
 
+echo "pressé de desinstaller ubuntu :(" 
